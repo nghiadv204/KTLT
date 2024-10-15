@@ -1,1 +1,3 @@
-Code trên ngôn ngữ Java
+- Code trên ngôn ngữ Java
+- Công cụ sử dụng: Visual Studio Code/Eclipse
+- Link tải JDK: http://www.oracle.com/technetwork/java/javase/downloads/index.html
