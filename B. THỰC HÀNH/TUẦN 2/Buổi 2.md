@@ -1,10 +1,10 @@
-`**NỘI DUNG**`
-`**2.1. Tạo dự án, gói, lớp, file và đặt tên như sau:**`
+**NỘI DUNG**
+_**2.1. Tạo dự án, gói, lớp, file và đặt tên như sau:**_
 - Tên dự án: HoTenSinhVien
 - Tên gói: buoi2
 - Tên lớp: Tenmssv
 - Tên file: Tenmssv.java
-Ví dụ: Sinh viên Nguyễn Văn An có mã số sinh viên 12345 thì đặt tên như sau:
+**_Ví dụ:_** Sinh viên Nguyễn Văn An có mã số sinh viên 12345 thì đặt tên như sau:
 - Tên dự án: NguyenVanAn
 - Tên gói: buoi2
 - Tên lớp: An12345
